@@ -8,6 +8,8 @@ Branch:Phoenix
 
 College:Bits Pilani
 
+Please do run the requirements.py script before doing anything else. It installs all the required packages for running all the scripts.Pip must be pre-installed.
+
 Short description of each Script.
 
 ordinary_point_series: inputs require the cofficient of each term in the differential equation in the form p(x), q(x). It should return the equation.
