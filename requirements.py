@@ -13,7 +13,9 @@ def install(package):
 
 install("requests")
 install("beautifulsoup4")
-install("pandas")
-install("tabula")
-install("sympy")
-install("IPython")
+install("cryptography")
+install("selenium")
+install("webdriver_manager")
+install("telegram")
+install("chatterbot")
+install("chatterbot-corpus")
