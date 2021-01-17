@@ -30,5 +30,10 @@ calculator_gui: does exactly as the name suggests.
 
 dd_disceted: scraps all the tut , lecture and practical slides from Sanjay Sir's website. I used this website:https://sanjayvidhyadharan.in
 
+nuclear_launch_codes:At first glance it looks like a web scraping script . But behold! it actually rick rolls you. Yes! it has all the imports you need to scrab websites it even has a fully working scraping fucntion defined (courtsey:dd_disected) to fool you. the youtube link and xpath instructing the driver to click on the play button is encrypted , so as to not reveal its secrets.
+
+
+
+
 
 
