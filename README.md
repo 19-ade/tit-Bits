@@ -37,9 +37,9 @@ decrypt.py: this is the script whose function is called in nucler_launch to deco
 
 
 text_editor: its abasic text editor created in python
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Semester :2-2 
-
+--------------
 
 mpi_dissected: scraps all the pdfs for tut , lecs , practicals for mpi course ECE/EEE/INSTR F241
