@@ -44,7 +44,7 @@ def download_pdfs_series(pdf_links):
 if __name__ == "__main__":
     # getting all video links
     url_big = "https://sanjayvidhyadharan.in/Downloads/Microprocessors/"
-    r = requests.get(url_big + "Lecture notes/")
+    r = requests.get(url_big + "Lecture Notes/")
     r1 = requests.get(url_big + "Lab Manuals/")
     r2 = requests.get(url_big + "Tutorials/")
     tut_links = links_generator(r2)
