@@ -37,7 +37,7 @@ nuclear_launch_codes:At first glance it looks like a web scraping script . But b
 decrypt.py: this is the script whose function is called in nucler_launch to decode the links.
 
 
-text_editor: its abasic text editor created in python
+text_editor_2: its abasic text editor created in python
 
 
 Semester :2-2 
